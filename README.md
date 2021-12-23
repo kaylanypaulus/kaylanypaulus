@@ -1,4 +1,4 @@
-## Heyy! I'm Kaylany Paulus, systems development student at ETEC!💜
+## Heyy! I'm Kaylany Paulus a web developer!💜
 
 <div align="center">
   <a href="https://github.com/kaylanypaulus">
